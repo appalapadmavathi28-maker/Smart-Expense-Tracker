@@ -1,0 +1,1 @@
+# No external packages required. Tkinter and SQLite are standard Python modules.
